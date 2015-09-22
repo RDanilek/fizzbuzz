@@ -48,8 +48,6 @@ for i in range(1,a+1):
         print ("FizzBuzz")
     elif (i%f==0):
         print("Fizz")
-    elif (i%f!=0):
-        print(i)
     elif (i%b==0):
         print("Buzz")
     elif (i%b!=0):
