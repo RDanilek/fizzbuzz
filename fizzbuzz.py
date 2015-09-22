@@ -46,5 +46,5 @@ b = int(input("For multiples of what number shall we print 'Buzz'? "))
 for i in range(1,a+1):
     if (i%f==0):
         print("Fizz")
-    elif (i%f!=0)
+    elif (i%f!=0):
         print(i)
